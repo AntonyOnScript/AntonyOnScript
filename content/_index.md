@@ -1,0 +1,1 @@
+Hello, my name is Antony Santhiago. I’m a full stack developer with 4 years of experience. Over these years, I’ve done a lot of freelance work and helped small companies and startups I’ve worked with to scale their brand, product and quality.

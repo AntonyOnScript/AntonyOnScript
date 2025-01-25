@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Antony Santhiago'
+description = 'Fullstack Software Engineer'
+theme = 'hugo-theme-yue'
+enableEmoji = true

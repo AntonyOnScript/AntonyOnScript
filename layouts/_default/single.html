@@ -3,7 +3,6 @@
     <h1>{{ .Title | .RenderString }}</h1><small>{{ .Description }}</small>
 </div>
   {{ .Content }}
-  {{ partial "single/terms.html" (dict "taxonomy" "tags" "page" .) }}
   {{ partial "single/terms.html" (dict "taxonomy" "categories" "page" .) }}
   {{ partial "single/page_nav.html" . }}
   {{ partial "single/single-end.html" . }}

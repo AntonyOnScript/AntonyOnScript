@@ -10,4 +10,4 @@ tags:
 ---
 
 ### About my work there
-A Frontend developer at the beginning, and posteriorly a Full Stack developer. In direct contact with customers, here i had been working with Vanilla JS, Vue, PHP, development of chrome extensions and Wordpress plugins and themes.
+Initially a Frontend developer, and later a Full Stack developer. In direct contact with customers, I worked with Vanilla JS, Vue, PHP, Chrome extension development, and WordPress plugins and themes.

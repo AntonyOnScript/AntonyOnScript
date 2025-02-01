@@ -10,7 +10,7 @@ tags:
 ---
 
 ### About my work there
-At Panda Bideo, I contributed to the frontend of the product dashboard using Vue 2 and 3, with UI Components (Vuetify) as the foundation, developing complex and high-performance components, and implementing translations for English and Spanish.
+At Panda Video, I contributed to the frontend of the product dashboard using Vue 2 and 3, with UI Components (Vuetify) as the foundation, developing complex and high-performance components, and implementing translations for English and Spanish.
 
 I also helped to fix bugs and develop new features in the Player, which impact millions of users monthly.
 

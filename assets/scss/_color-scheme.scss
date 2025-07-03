@@ -1,9 +1,9 @@
 :root {
     --background-color: #{$background-color-dark};
     --background-color1: #{$background-color1-dark};
-    --foreground-color: #{$foreground-color-dark};
+    --foreground-color: white;
     --foreground-color3: #{$foreground-color3-dark}; // figcaption
-    --accent-color: #{$accent-color-dark};
+    --accent-color: rgb(60, 90, 181);
   }
   
   // Set color

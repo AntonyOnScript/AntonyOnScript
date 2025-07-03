@@ -3,7 +3,7 @@ author: Hugo Authors
 date: '2025-01-25T12:52:17-03:00'
 title: 'Panda Video :panda_face:'
 summary: Video hosting security for digital marketing and online courses.
-description: (jan 2022 - now)
+description: (jan 2022 - july 2025 ∙ 3 yrs 7 mos)
 workTime: lol
 tags:
 - jobs

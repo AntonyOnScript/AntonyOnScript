@@ -3,7 +3,7 @@ author: Hugo Authors
 date: '2025-01-25T12:51:17-03:00'
 title: 'Evolker :globe_with_meridians:'
 summary: Software consulting company.
-description: (may 2021 - apr 2022)
+description: (may 2021 - apr 2022 ∙ 1 yr)
 workTime: lol
 tags:
 - jobs
